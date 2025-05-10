@@ -35,7 +35,7 @@ Don't know how to make a Pull Request? No problem! You can contribute by creatin
 
 1. Go to the [Issues tab](../../issues)
 2. Click "New Issue"
-3. Choose "Submit Company"
+3. Choose "Add English-Friendly Company"
 4. Fill out the template with all the information you have
 5. Submit the issue
 
