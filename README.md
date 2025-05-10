@@ -72,7 +72,7 @@ The more detailed your submission, the more helpful it is for others!
 When submitting a PR, please use this format:
 
 ```
-| [Company Name](Company website) | Industry | City/Region |
+| [Company Name](Company website) | Industry | City Where Office is Located | Website Address |
 ```
 
 ## 🎯 Criteria for Inclusion
