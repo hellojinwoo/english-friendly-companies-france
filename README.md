@@ -8,20 +8,56 @@ This repository aims to help international professionals find opportunities in F
 
 ## 🏢 Company List
 
-| Company Name | Industry | Location |
-|-------------|----------|----------|
-| [Kaiko](https://www.kaiko.com/) | IT/Cryptocurrency | Paris & Remote |
+| Company Name | Industry | Location | Website |
+|-------------|----------|----------|---------|
+| [Kaiko](#kaiko) | IT/Cryptocurrency | Paris & Remote | [Website](https://www.kaiko.com/) / [Job Openings](https://jobs.eu.lever.co/kaiko) |
+
+## 📝 Company Details
+
+### <a name="kaiko"></a>Kaiko
+
+- **Industry:** Cryptocurrency Market Data  
+- **Location:** Paris & Remote  
+- **Company Size:** 50-100 employees  
+
+> "I have worked here since 2022 in Paris office, about 3 years now. All conversations on Slack and documents shared internally and externally are written in English. It's better to be fluent in French, though, to understand and get involved in casual conversations face to face, which often happen in French among French colleagues."
+>
+> \- Anonymous Kaiko employee (2025)
+
 
 ## 🤝 How to Contribute
 
 We need your help to grow this list! 🌟
 
-### Adding a Company
+### Option 1: Create an Issue (Easiest)
+
+Don't know how to make a Pull Request? No problem! You can contribute by creating an Issue:
+
+1. Go to the [Issues tab](../../issues)
+2. Click "New Issue"
+3. Choose "Submit Company"
+4. Fill out the template with all the information you have
+5. Submit the issue
+
+We'll review your submission and add it to the list!
+
+### Option 2: Create a Pull Request (For GitHub Users)
+
+If you're comfortable with GitHub:
 
 1. Fork this repository
-2. Add your company to the table above (in alphabetical order)
-3. Create a Pull Request with a clear description
-4. Make sure the company primarily uses English for daily operations
+2. Add the company to the table and create a detailed section
+3. Create a Pull Request with your changes
+
+### What Information We Need
+
+For each company, please provide:
+- Company name, industry, and location
+- Evidence that English is the primary language (testimonials, job postings, etc.)
+- Any additional context or resources
+
+The more detailed your submission, the more helpful it is for others!
+
 
 ### Contribution Guidelines
 
