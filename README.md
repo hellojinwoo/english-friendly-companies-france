@@ -11,6 +11,8 @@ This repository aims to help international professionals find opportunities in F
 | Company Name | Industry | Location | Website |
 |-------------|----------|----------|---------|
 | [Kaiko](#kaiko) | IT/Cryptocurrency | Paris & Remote | [Website](https://www.kaiko.com/) / [Job Openings](https://jobs.eu.lever.co/kaiko) |
+| [Dashlane](#dashlane) | IT/Security | Paris & Remote | [Website](https://www.dashlane.com/) / [Job Openings](https://www.dashlane.com/about/careers) |
+
 
 ## 📝 Company Details
 
@@ -24,6 +26,15 @@ This repository aims to help international professionals find opportunities in F
 >
 > \- Anonymous Kaiko employee (2025)
 
+### <a name="dashlane"></a>Dashlane
+
+- **Industry:**: Password Management & Credential Security
+- **Location:**: Paris & Remote
+- **Company Size:**: 50-100 employees
+
+> "You will be based in Paris, with English as your working language. Please ensure to attach any documents (resume's or cover letters) in English during your application process.""
+>
+> \- From a job posting 
 
 ## 🤝 How to Contribute
 
