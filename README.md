@@ -28,9 +28,9 @@ This repository aims to help international professionals find opportunities in F
 
 ### <a name="dashlane"></a>Dashlane
 
-- **Industry:**: Password Management & Credential Security
-- **Location:**: Paris & Remote
-- **Company Size:**: 50-100 employees
+- **Industry:** Password Management & Credential Security
+- **Location:** Paris & Remote
+- **Company Size:** 50-100 employees
 
 > "You will be based in Paris, with English as your working language. Please ensure to attach any documents (resume's or cover letters) in English during your application process.""
 >
